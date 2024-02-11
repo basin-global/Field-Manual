@@ -27,7 +27,7 @@ Is responsible for evaluating and deciding the risk of ensuring ecological polyg
 
 ### ENSURER
 
-aka ensurance carrier, the ENSURER issues the ensurance policy, bearing the risk in exchange for ensurance premiums paid by the ensured. ENSURER’s are BASIN Members that are either non-profit capital providers, market rate investors, or blended finance vehicles.
+aka ensurance carrier, the ENSURER issues the ensurance policy, bearing the risk in exchange for ensurance premiums paid by the ensured. ENSURER’s are BASIN Members that are either market rate investors, philanthropic funders, or blended finance vehicles.
 
 ### ENSURANCE Agents
 
