@@ -130,7 +130,7 @@ Conservation Finance the strategic and innovative use of financial mechanisms an
 
 ### Core Benefits Label
 
-Based on the [Co-Benefits Climate Sprint](glossary.md#co-benefits-climate-sprint), the Core Benefits Label aimed to make the valuation of ecosystem services and co-benefits in climate finance more understandable and actionable. It detailed efforts by a diverse team to value long-term co-benefits for net-zero companies and stakeholders through a "Climate Sprint" approach for rapid, collaborative development. The concept of a "Core Benefits Label," similar to nutrition labels, was proposed to assist investors in identifying climate projects with significant ecological and social impacts, aiming to improve how such projects are evaluated for their broader benefits beyond carbon reduction.
+Based on the 2021 [Co-Benefits Climate Sprint](glossary.md#co-benefits-climate-sprint) which set out to answer "**How can we best value long-term co-benefits and ecosystem services when mobilizing climate finance?",** the Core Benefits Label aimed to make the valuation of ecosystem services and co-benefits in climate finance more understandable and actionable. It detailed efforts by a diverse team to value long-term co-benefits for net-zero companies and stakeholders through a "Climate Sprint" approach for rapid, collaborative development. The concept of a "Core Benefits Label," similar to nutrition labels, was proposed to assist investors in identifying climate projects with significant ecological and social impacts, aiming to improve how such projects are evaluated for their broader benefits beyond carbon reduction.
 
 ### Costanza, Robert
 
