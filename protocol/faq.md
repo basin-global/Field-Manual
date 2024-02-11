@@ -1,6 +1,6 @@
 # FAQ
 
-This is our main FAQ; new Q\&A are being added regularly. We have broken it down into sections but several overlap so feel free to use the [AI assisted search box](https://docs.basin.global/provenance/the-basin-field-manual?q=).
+This is our main FAQ; new Q\&A are being added regularly. We have broken it down into sections but several overlap so feel free to use the [AI assisted search box](https://docs.basin.global/provenance/the-basin-field-manual?q=) up top.
 
 We [welcome](../formalities/contact.md) your questions and comments as well.
 
