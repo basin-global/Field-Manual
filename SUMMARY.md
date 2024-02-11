@@ -44,7 +44,6 @@
 
 ## Appendix
 
-* [Glossary](appendix/glossary.md)
 * [Land Cover Classification & Ecosystem Typologies](appendix/land-cover-classification-and-ecosystem-typologies/README.md)
   * [Ecosystem Classification Frameworks](appendix/land-cover-classification-and-ecosystem-typologies/ecosystem-classification-frameworks/README.md)
     * [IUCN Global Ecosystem Typology 2.0 (IUCN GET 2.0)](appendix/land-cover-classification-and-ecosystem-typologies/ecosystem-classification-frameworks/iucn-global-ecosystem-typology-2.0-iucn-get-2.0.md)
@@ -108,3 +107,4 @@
   * [Real Asset Values](appendix/selected-value-types-and-valuation-methods/real-asset-values/README.md)
     * [Cap Rate Overview](appendix/selected-value-types-and-valuation-methods/real-asset-values/cap-rate-overview.md)
   * [Ecosystem Service Values](appendix/selected-value-types-and-valuation-methods/ecosystem-service-values.md)
+* [Glossary](appendix/glossary.md)

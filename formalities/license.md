@@ -13,7 +13,7 @@ NonCommercial (NC) means _**not**_ primarily intended for or directed towards co
 * Any form of property marketing or sales using information, data, or methods from this work.
 * The creation, minting, or sale of environmental assets including carbon, biodiversity, or ecological credits in any form.
 
-### Commercial Use
+### Commercial
 
 Commercial use is allowed by BASIN Members within the BASIN Protocol or available upon request.
 
