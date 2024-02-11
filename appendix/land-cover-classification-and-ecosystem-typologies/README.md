@@ -1,7 +1,7 @@
 # Land Cover Classification & Ecosystem Typologies
 
 {% hint style="info" %}
-The [BASIN Ecosystems](../../core-benefits/natures-core-benefits/stocks-ecosystems/) land cover and ecosystem typology and [RealValue](broken-reference) was built based on the process and supporting materials found in this Appendix.
+The [BASIN Ecosystems](../../core-benefits/core-benefits-framework/stocks-ecosystems/) land cover and ecosystem typology and [RealValue](broken-reference) was built based on the process and supporting materials found in this Appendix.
 {% endhint %}
 
 We evaluated [27 primary source](https://docs.google.com/spreadsheets/d/e/2PACX-1vQwj56Qg699KpORHt\_jm3YA43PAvEbwJuETykHpRhxM7YQ0ErbGIKcPZ0bc0a6R3mQlLx4rDGNTPCSy/pubhtml?gid=1103807035\&single=true) Land Cover and Ecosystem Typologies, focusing on their relevance to Ecosystem Service Valuation (ESV), real assets, and corporate financial and Environmental, Social, and Governance (ESG) disclosures.&#x20;

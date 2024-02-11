@@ -9,13 +9,3 @@ We have synthesized these diverse systems into what we call Nature's Core Benefi
 {% hint style="warning" %}
 Real assets in a nature framework? It's strategic. In a world of rules, we turn legal 'limitations' [into tools](https://dispatches.basin.global/the-tools-we-have) for sustainable impact. Laws aren't barriers; they're opportunities.
 {% endhint %}
-
-## Core Benefits Framework
-
-The Core Benefits Framework identifies 14 "stocks" of ecosystems and 21 "flows" of ecological benefits.
-
-***
-
-{% hint style="info" %}
-Detailed methodology available in the [Appendix](broken-reference)
-{% endhint %}

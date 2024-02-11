@@ -7,11 +7,12 @@
 
 ## Core Benefits
 
-* [Nature's Core Benefits](core-benefits/natures-core-benefits/README.md)
-  * [STOCKS: Ecosystems](core-benefits/natures-core-benefits/stocks-ecosystems/README.md)
-    * [Ecosystem Definitions](core-benefits/natures-core-benefits/stocks-ecosystems/ecosystem-definitions.md)
-  * [FLOWS: Ecological Benefits](core-benefits/natures-core-benefits/flows-ecological-benefits/README.md)
-    * [Ecological Benefits Definitions](core-benefits/natures-core-benefits/flows-ecological-benefits/ecological-benefits-definitions.md)
+* [Nature's Core Benefits](core-benefits/natures-core-benefits.md)
+* [Core Benefits Framework](core-benefits/core-benefits-framework/README.md)
+  * [STOCKS: Ecosystems](core-benefits/core-benefits-framework/stocks-ecosystems/README.md)
+    * [Ecosystem Definitions](core-benefits/core-benefits-framework/stocks-ecosystems/ecosystem-definitions.md)
+  * [FLOWS: Ecological Benefits](core-benefits/core-benefits-framework/flows-ecological-benefits/README.md)
+    * [Ecological Benefits Definitions](core-benefits/core-benefits-framework/flows-ecological-benefits/ecological-benefits-definitions.md)
 
 ## RealValue
 
