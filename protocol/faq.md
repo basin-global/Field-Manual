@@ -36,6 +36,14 @@ Certainly not as insurance is the prudent thing to do.  However ensurance is spe
 
 </details>
 
+<details>
+
+<summary>Does ensurance prevent or limit other types of credit or certificate sales?</summary>
+
+Absolutely not! Ensurance is designed to finance the land based on the real asset price and project costs. Once the land is ensured, we expect and encourage other credit types to be "stacked" on top or "bundled" with ensurance to enhance project feasibility. The notable concern is reconciliation of other credit sales with the re-issuance and/or release of Certificates of Ensurance for the project.
+
+</details>
+
 ## BASIN Protocol
 
 <details>
