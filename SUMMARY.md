@@ -36,6 +36,7 @@
 * [Relational Value Gap](protocol/relational-value-gap.md)
 * [Manifesto](protocol/manifesto.md)
 * [Soundtrack](protocol/soundtrack.md)
+* [FAQ](protocol/faq.md)
 
 ## formalities
 
