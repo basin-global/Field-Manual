@@ -28,10 +28,12 @@
 
 ## Ensurance
 
-* [‼ The need for Ensurance](ensurance/the-need-for-ensurance.md)
+* [Ecological Ensurance](ensurance/ecological-ensurance.md)
+* [Ensurance Example](ensurance/ensurance-example.md)
 
 ## Protocol
 
+* [Relational Value Gap](protocol/relational-value-gap.md)
 * [Manifesto](protocol/manifesto.md)
 * [Soundtrack](protocol/soundtrack.md)
 
