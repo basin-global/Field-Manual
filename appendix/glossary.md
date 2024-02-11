@@ -38,6 +38,10 @@ Atmosphere includes the gaseous medium and its suspended particulate liquids and
 
 ## B
 
+### Baseline&#x20;
+
+Starting point or benchmark against which changes in the state of nature attributed to your business activities can be compared. _TNFD; Natural Capital Protocol_
+
 ### basinDAO&#x20;
 
 After the Core Benefits Label Climate Sprint in the fall 2021, a small group formed a DAO called CMPND. CMPND was established to apply the CBL to assessing and developing climate projects as a venture studio. Realizing this was too general, CMPND was renamed basinDAO. basinDAO was the first iteration of what is now the BASIN Protocol. While we no longer use the term DAO, BASIN is similar to a DAO in that it is a polycentric organization operated by its members.
@@ -104,11 +108,41 @@ Co-benefits associated with carbon reduction efforts are the positive side effec
 
 In August 2021, the Climate Sprint focused on the valuation of long-term co-benefits and ecosystem services within climate finance. Participants were tasked with developing methods to identify, rate, and price the additional benefits of carbon projects. The teams worked on integrating these values into climate finance initiatives, aiming to align them with climate, financial, ESG, and impact goals. This Sprint covered areas such as carbon removal, climate adaptation, conservation, emissions reduction, energy transition, and climate justice, targeting a wide range of stakeholders. The final deliverables included a valuation system for co-benefits, a detailed project scope, and a pitch targeting potential investors or participants, designed to demonstrate the project's viability, scalability, and impact. Open to anyone with an interest in climate and conservation finance, the Sprint emphasized practical, scalable solutions for incorporating ecosystem services into climate projects. This Climate Sprint resulted in the Core Benefits Label.
 
+### Common Asset Trust&#x20;
+
+Common Asset Trust is a governance mechanism designed to manage common-pool resources, such as forests, fisheries, or water bodies, in a sustainable and equitable manner. CATs are informed by Ostrom's principles of collective action and self-governance, which emphasize the role of local communities and resource users in making and enforcing rules for resource management.&#x20;
+
+### Common Pool Resources&#x20;
+
+Common Pool Resources are resources collectively owned or accessed by a group, where one person's use diminishes what's available to others. CPRs include resources like fisheries and forests. Effective management often involves local communities creating rules for sustainable use and distribution, as highlighted by Elinor Ostrom's research.
+
+### Conservation Finance&#x20;
+
+Conservation Finance the strategic and innovative use of financial mechanisms and instruments to support the conservation and sustainable management of natural resources, biodiversity, and ecosystems. This field blends financial strategies with conservation goals to secure funding for initiatives that protect and restore the environment. Conservation finance encompasses a wide range of approaches, including public and private investments, impact investing, environmental markets, eco-tourism, and the development of financial tools like green bonds and payment for ecosystem services programs. The primary objective of conservation finance is to generate sustainable funding streams for conservation efforts while promoting biodiversity conservation, habitat restoration, and the sustainable use of natural resources. It plays a crucial role in addressing pressing environmental challenges and achieving long-term ecological and societal benefits.
+
 ### Core Benefits Label
 
 Based on the [Co-Benefits Climate Sprint](glossary.md#co-benefits-climate-sprint), the Core Benefits Label aimed to make the valuation of ecosystem services and co-benefits in climate finance more understandable and actionable. It detailed efforts by a diverse team to value long-term co-benefits for net-zero companies and stakeholders through a "Climate Sprint" approach for rapid, collaborative development. The concept of a "Core Benefits Label," similar to nutrition labels, was proposed to assist investors in identifying climate projects with significant ecological and social impacts, aiming to improve how such projects are evaluated for their broader benefits beyond carbon reduction.
 
+### Costanza, Robert
+
+Robert Costanza is a notable ecological economist and environmental scientist who has made significant contributions to the field of ecological economics. His work focuses on the valuation of ecosystem services, the redefinition of traditional economic indicators to include ecological and social dimensions in assessments of well-being, and the promotion of interdisciplinary approaches to address sustainability challenges. Costanza's advocacy for the recognition of natural capital value and his leadership in advancing ecological economics have had a profound impact on the fields of economics, environmental science, and sustainability.&#x20;
+
+### Critical habitat&#x20;
+
+Any area of the planet with high biodiversity conservation significance, based on the existence of habitat of significant importance to critically endangered or endangered species, restricted range or endemic species, globally significant concentrations of migratory and/or congregatory species, highly threatened and/or unique ecosystems and key evolutionary processes. _TNFD; IFC_&#x20;
+
+### Cumulative impact&#x20;
+
+A change in the state of nature (direct or indirect) that occurs due to the interaction of activities of different actors operating in a landscape. _TNFD_
+
+
+
 ## D
+
+### **DAO (Decentralized Autonomous Organization)**
+
+A DAO operates as a blockchain-based form of organization or company governed by smart contracts, eliminating the need for traditional management structures. DAOs are democratic systems where decisions are made through member voting, ensuring transparency and direct stakeholder control. This structure enables decentralized decision-making and management, making DAOs ideal for collaborative projects, investment funds, and community-led initiatives. DAOs represent a shift towards more open, equitable, and efficient ways of organizing collective efforts and resources.
 
 ## E
 
@@ -145,6 +179,10 @@ The "Half Earth" concept, proposed by biologist E.O. Wilson, suggests that to sa
 ## Q
 
 ## R
+
+### **RWA x ReFi Report**
+
+Funded by the Climate Collective, this report delves into merging Real World Assets (RWA) with Regenerative Finance (ReFi) to foster ecological and social impacts via web3 and blockchain technologies. It outlines the potential for a new regenerative asset ownership and governance system, confronting legal, technological, and financial hurdles. Advocating for open-source development, legal clarity, and active community engagement, it highlights key contributors to the evolving RWA and ReFi landscape. Published on February 16th, 2023, it is available under the CC BY-SA 4.0 license. More details on the project: [RWA x ReFi](../other-projects/rwa-x-refi-report.md)
 
 ## S
 
