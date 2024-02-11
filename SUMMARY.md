@@ -43,6 +43,7 @@
 
 ## Appendix
 
+* [Glossary](appendix/glossary.md)
 * [Land Cover Classification & Ecosystem Typologies](appendix/land-cover-classification-and-ecosystem-typologies/README.md)
   * [Ecosystem Classification Frameworks](appendix/land-cover-classification-and-ecosystem-typologies/ecosystem-classification-frameworks/README.md)
     * [IUCN Global Ecosystem Typology 2.0 (IUCN GET 2.0)](appendix/land-cover-classification-and-ecosystem-typologies/ecosystem-classification-frameworks/iucn-global-ecosystem-typology-2.0-iucn-get-2.0.md)
