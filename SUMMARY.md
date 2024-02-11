@@ -108,3 +108,5 @@
     * [Cap Rate Overview](appendix/selected-value-types-and-valuation-methods/real-asset-values/cap-rate-overview.md)
   * [Ecosystem Service Values](appendix/selected-value-types-and-valuation-methods/ecosystem-service-values.md)
 * [Glossary](appendix/glossary.md)
+* [Previous Work](appendix/previous-work/README.md)
+  * [Core Benefits Label](appendix/previous-work/core-benefits-label.md)
