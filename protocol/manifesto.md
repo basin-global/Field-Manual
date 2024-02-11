@@ -1,0 +1,5 @@
+# Manifesto
+
+The [BASIN Manifesto](https://dispatches.basin.global/category/manifesto) is not only our compass but also our light.
+
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h2>🪓 "As Improved"</h2></td><td><a href="https://dispatches.basin.global/as-improved">https://dispatches.basin.global/as-improved</a></td></tr><tr><td><h2>⚡️ Adaptive Capacity</h2></td><td></td></tr><tr><td><h2>✚ Accounting For Nature</h2></td><td></td></tr><tr><td><h2>🌌 Security. Not a Security.</h2></td><td></td></tr><tr><td><h2>🎛️ Buttons, Knobs &#x26; Levers</h2></td><td><a href="https://dispatches.basin.global/buttons-knobs-levers">https://dispatches.basin.global/buttons-knobs-levers</a></td></tr><tr><td><h2>🦫 Beavers, Biocrust, Bees &#x26; Bogs</h2></td><td><a href="https://dispatches.basin.global/beavers-biocrust-bees-bogs">https://dispatches.basin.global/beavers-biocrust-bees-bogs</a></td></tr><tr><td><p></p><h2>☂️ Buffer</h2></td><td><a href="https://dispatches.basin.global/buffer">https://dispatches.basin.global/buffer</a></td></tr></tbody></table>
