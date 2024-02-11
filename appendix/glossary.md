@@ -4,9 +4,13 @@ description: under construction
 
 # Glossary
 
-Compilation of Regularly Used Terms and Phrases in BASIN. _Third-party sources are in italics as applicable._
+Compilation of regularly used terms and phrases in BASIN. Third-party sources are in _italics_ as applicable.
 
 ## 0
+
+### **0xSplits**
+
+0xSplits or Splits is a decentralized protocol utilizing Ethereum blockchain smart contracts (EVM) to automate the splitting of on-chain income among multiple recipients. It enables trustless, composable, and fee-less (apart from gas costs) distribution of funds according to predefined ratios. Designed for versatility, 0xSplits can be used for various purposes, including revenue sharing among project contributors, community fund management, and more. The protocol is open-source, audited, non-upgradeable, ensuring reliability and permanence as a foundational infrastructure for decentralized finance (DeFi) applications.
 
 ## 3
 
@@ -45,6 +49,10 @@ Starting point or benchmark against which changes in the state of nature attribu
 ### basinDAO&#x20;
 
 After the Core Benefits Label Climate Sprint in the fall 2021, a small group formed a DAO called CMPND. CMPND was established to apply the CBL to assessing and developing climate projects as a venture studio. Realizing this was too general, CMPND was renamed basinDAO. basinDAO was the first iteration of what is now the BASIN Protocol. While we no longer use the term DAO, BASIN is similar to a DAO in that it is a polycentric organization operated by its members.
+
+### **Biocomplexity**
+
+A multidisciplinary field that examines the intricate interactions and emergent properties among biological, ecological, social, and technological systems. Biocomplexity studies the dynamics and nonlinear relationships within and between various levels of biological organization, from genetic diversity within species to ecosystem diversity across landscapes. It emphasizes the interconnectedness and interdependence of life and environments, aiming to understand the resilience, adaptability, and sustainability of living systems in the face of ecological, environmental, and societal challenges. This field underlines the critical importance of holistic approaches in conservation, restoration, and sustainable management practices. Related: [SEED Biocomplexity](glossary.md#seed-biocomplexity)
 
 ### Biocredit&#x20;
 
@@ -144,11 +152,127 @@ A change in the state of nature (direct or indirect) that occurs due to the inte
 
 A DAO operates as a blockchain-based form of organization or company governed by smart contracts, eliminating the need for traditional management structures. DAOs are democratic systems where decisions are made through member voting, ensuring transparency and direct stakeholder control. This structure enables decentralized decision-making and management, making DAOs ideal for collaborative projects, investment funds, and community-led initiatives. DAOs represent a shift towards more open, equitable, and efficient ways of organizing collective efforts and resources.
 
+### Dasgupta Review&#x20;
+
+The Dasgupta Review, officially titled the "Review on the Economics of Biodiversity," is a comprehensive report led by economist Sir Partha Dasgupta and published in 2021. Commissioned by the UK government, it assesses the economic implications of biodiversity loss and the decline of natural capital. This review underscores the profound connection between nature, economics, and human well-being. It emphasizes the vital role of natural capital, which includes ecosystems and biodiversity, as one of the three types of capital crucial for economic prosperity, alongside human capital and produced capital. The report highlights that the degradation of natural capital poses significant risks to economies and societies globally. Key takeaways from the Dasgupta Review include the urgent need to account for natural capital in economic decision-making, adopt sustainable economic models, and prioritize investments in nature conservation and restoration. By recognizing the value of nature as a vital component of our economic infrastructure, the review calls for transformative changes in how we perceive, manage, and invest in natural resources.&#x20;
+
+### de Groot, Rudolph&#x20;
+
+Rudolph de Groot is a notable figure in the field of ecosystem services and environmental economics. He is recognized for his contributions to the valuation and assessment of ecosystem services and for promoting their integration into decision-making processes. De Groot's work focuses on assigning economic values to the benefits provided by natural ecosystems and advocating for the incorporation of ecosystem service assessments into land use planning, policy development, and resource management. His interdisciplinary approach and leadership have influenced the understanding of the ecological and economic dimensions of environmental challenges, with practical applications in environmental management, conservation, and sustainable development.&#x20;
+
+### DeFi&#x20;
+
+DeFi stands for Decentralized Finance, a blockchain-based financial system that offers traditional financial services such as lending, borrowing, trading, and asset management without relying on traditional intermediaries like banks. Instead, it utilizes smart contracts and decentralized applications (dApps) to enable peer-to-peer transactions, making financial services more accessible, transparent, and open to a global audience. DeFi has gained prominence in the cryptocurrency space for its potential to disrupt traditional finance and increase financial inclusion.&#x20;
+
+### Dependencies&#x20;
+
+Aspects of ecosystem services that an organisation or other actor relies on to function. Dependencies include ecosystems' ability to regulate water flow, water quality, and hazards like fires and floods; provide a suitable habitat for pollinators (who in turn provide a service directly to economies), and sequester carbon (in terrestrial, freshwater and marine realms). _TNFD; SBTN_&#x20;
+
+### Dependency pathway&#x20;
+
+A dependency pathway shows how a particular business activity depends upon specific features of natural capital. It identifies how observed or potential changes in natural capital affect the costs and/or benefits of doing business. _TNFD; Natural Capital Protocol_
+
+### Direct impacts&#x20;
+
+A change in the state of nature caused by a business activity with a direct causal link. _TNFD_
+
+## Drivers of nature change&#x20;
+
+All external factors that affect nature, anthropogenic assets, nature's contributions to people and good quality of life. They include institutions and governance systems and other indirect drivers, and direct drivers (both natural and anthropogenic). _TNFD; IPBES_
+
 ## E
 
-### ecotone
+### Ecocredit
 
-Ecotones are places where ecosystems grade into each other along a gradient in one or more resources or environmental controls. A typical example is the transition from forest to grassland on a gradient of moisture availability. The precise location of ecosystem types, and hence the ecotones between them is ultimately subjective. Where these gradients are very gentle, ecotones can occupy quite extensive areas. The translation of gradients and ecotones on ecosystem classification will depend on the nature and ‘sharpness’ of the transition, and the scale of application. _Source: SEEA EA_
+In the Regen Network, an "ecocredit" represents a digital certificate issued for specific ecosystem services, such as carbon sequestration or biodiversity conservation, verified by the network. These credits are created to incentivize and quantify ecological regeneration and conservation efforts. They can be bought, traded, and retired by individuals and organizations looking to offset their carbon footprint, invest in sustainable practices, or meet climate commitments. The system provides a transparent, blockchain-based platform for valuing and transacting in ecosystem services, contributing to global environmental sustainability goals.
+
+### Ecological / habitat connectivity&#x20;
+
+The degree to which the landscape facilitates the movement of organisms (animals, plant reproductive structures, pollen, pollinators, spores, etc.) and other environmentally important resources (e.g. nutrients and moisture) between similar habitats. Connectivity is hampered by fragmentation. _TNFD; IPBES_&#x20;
+
+### Ecological Economics&#x20;
+
+Ecological economics is an interdisciplinary field that integrates principles from economics and ecology to address sustainability challenges. It emphasizes long-term well-being, recognizes the interconnectedness of economic and ecological systems, values ecosystem services, considers ethical and social aspects, and provides guidance for sustainable resource management and environmental policy development. Ecological economics aims to balance economic goals with the preservation of finite natural resources and ecosystems.
+
+### Ecosystem&#x20;
+
+A dynamic complex of plant, animal and microorganism communities and the non-living environment, interacting as a functional unit. _CBD; IPBES; TNFD_&#x20;
+
+### Ecosystem Accounting&#x20;
+
+Ecosystem accounting is a specialized form of environmental accounting that focuses on the measurement and valuation of ecosystem services provided by natural ecosystems. It involves systematically assessing the contributions of ecosystems to the economy and human well-being. Ecosystem accounting quantifies the various benefits that ecosystems offer, such as clean water, pollination, carbon sequestration, and habitat provision. By integrating this information into economic frameworks, ecosystem accounting helps policymakers and businesses make informed decisions that balance economic development with the sustainable use and conservation of ecosystems.&#x20;
+
+### Ecosystem Asset&#x20;
+
+A form of environmental assets that relate to diverse ecosystems. These are contiguous spaces of a specific ecosystem type characterised by a distinct set of biotic and abiotic components and their interactions. _SEEA; TNFD_&#x20;
+
+### Ecosystem Condition&#x20;
+
+The quality of an ecosystem measured by its abiotic and biotic characteristics. Condition is assessed by an ecosystem's composition, structure and function which, in turn, underpins the ecological integrity of the ecosystem, and supports its capacity to supply ecosystem services on an ongoing basis. _SEEA; TNFD_&#x20;
+
+### Ecosystem function
+
+The flow of energy and materials through the biotic and abiotic components of an ecosystem. This includes many processes such as biomass production, trophic transfer through plants and animals, nutrient cycling, water dynamics and heat transfer. _TNFD; IPBES_
+
+### Ecosystem health&#x20;
+
+Used to describe the condition of an ecosystem, by analogy with human health. Note that there is no universally accepted benchmark for a healthy ecosystem. Rather, the apparent health status of an ecosystem can vary, depending upon which metrics are employed to assess it and which societal aspirations are driving the assessment. _TNFD; IPBES_&#x20;
+
+### Ecosystem Services&#x20;
+
+The contributions of ecosystems to the benefits that are used in economic and other human activity. _SEEA; TNFD_&#x20;
+
+### Ecosystem Services Value (ESV)&#x20;
+
+ESV represents the assessed worth, whether in monetary or non-monetary terms, assigned to the advantages supplied by ecosystems to human well-being and the environment. ESV encompasses an array of services delivered by ecosystems, including clean water provision, pollination, climate regulation, and cultural or recreational experiences. [RealValue](broken-reference) is based on ESV's.
+
+### Ecosystem Type&#x20;
+
+Ecosystem type refers to a specific category or classification of ecosystems based on common ecological characteristics, such as vegetation, climate, and predominant species composition. These classifications help scientists, conservationists, and policymakers understand and describe different types of ecosystems, their functions, and their role in the environment. Ecosystem types may include forests, grasslands, wetlands, deserts, and aquatic ecosystems, among others. Categorizing ecosystems into types aids in the study, management, and conservation of natural environments by providing a framework for analysis and decision-making.&#x20;
+
+### Ecotone
+
+Ecotones are places where ecosystems grade into each other along a gradient in one or more resources or environmental controls. A typical example is the transition from forest to grassland on a gradient of moisture availability. The precise location of ecosystem types, and hence the ecotones between them is ultimately subjective. Where these gradients are very gentle, ecotones can occupy quite extensive areas. The translation of gradients and ecotones on ecosystem classification will depend on the nature and ‘sharpness’ of the transition, and the scale of application. _SEEA EA_
+
+### Endangered Species&#x20;
+
+Species considered to be facing a very high risk of extinction in the wild. _IUCN; TNFD_&#x20;
+
+### Environmental Accounting&#x20;
+
+Environmental accounting is a specialized field that integrates environmental data and indicators into economic accounting frameworks. It systematically measures and quantifies the interactions between the environment and the economy. Environmental accounting assesses the value of natural resources, monitors environmental assets, analyzes the environmental impacts of economic activities, and informs sustainable development and resource management decisions.&#x20;
+
+### Environmental Asset&#x20;
+
+The naturally occurring living and non-living components of the Earth, together constituting the biophysical environment, which may provide benefits to humanity. _SEEA; TNFD_&#x20;
+
+### **EVM (Ethereum Virtual Machine)**
+
+A core component of the Ethereum blockchain, the EVM is a decentralized virtual computing engine enabling the execution of smart contracts. It allows for applications to run exactly as programmed without downtime, censorship, fraud, or external interference, in a secure and isolated environment. Smart contracts, written in high-level programming languages, are compiled into bytecode executed by the EVM across the decentralized Ethereum network, ensuring integrity and security of operations.
+
+### ERC-1155&#x20;
+
+ERC-1155 is a remarkably versatile Ethereum token standard that revolutionizes the world of digital assets by combining the features of both fungible and non-fungible tokens (NFTs), including Semi-Fungible Tokens (SFTs), within a single smart contract. This innovative standard, introduced as an Ethereum Improvement Proposal (EIP), empowers developers to craft a diverse range of tokens, including unique, one-of-a-kind items (NFTs), tokens with partial fungibility (SFTs), and fully interchangeable tokens (FTs), all coexisting harmoniously within a unified smart contract. In practical terms, ERC-1155 offers unparalleled adaptability and efficiency, making it exceptionally well-suited for applications and games where users engage with a wide array of assets. Some of these assets possess individual uniqueness and value (NFTs), some exhibit partial fungibility for specific use cases (SFTs), while others can be readily exchanged like traditional currencies (FTs). By consolidating these token types into a single smart contract, ERC-1155 streamlines operations, reduces gas consumption, and enhances the overall performance of decentralized applications. This groundbreaking standard has gained widespread acclaim in blockchain-based gaming, digital collectibles platforms, and beyond. ERC-1155 fundamentally transforms the landscape of digital asset management on the Ethereum blockchain, fostering the creation of intricate, dynamic token ecosystems that cater to a multitude of use cases within the burgeoning NFT ecosystem.
+
+### ERC-721&#x20;
+
+ERC-721 is a standard for non-fungible tokens (NFTs) on the Ethereum blockchain. NFTs are unique digital assets representing ownership or proof of authenticity of specific items or digital content, such as digital art, collectibles, virtual real estate, and more. Unlike cryptocurrencies like Bitcoin or Ethereum, which are fungible and interchangeable, each ERC-721 token is distinct and cannot be exchanged on a one-to-one basis with other tokens. ERC-721 tokens have gained widespread use in blockchain-based applications and platforms that require secure and transparent management of ownership and provenance for digital or physical assets. They have fueled the growth of the NFT market, enabling the creation, trade, and ownership verification of a diverse array of unique digital assets.&#x20;
+
+### ESRI&#x20;
+
+ESRI, or the Environmental Systems Research Institute, is a prominent global provider of geographic information system (GIS) software, tools, and solutions. ESRI's GIS technology is widely used in various industries, including environmental management, urban planning, natural resource conservation, and more. Their software, such as ArcGIS, enables organizations to capture, analyze, and visualize spatial data to make informed decisions and solve complex spatial problems. ESRI plays a crucial role in advancing the use of geospatial technology for understanding and addressing environmental and geographical challenges.&#x20;
+
+### ESVD&#x20;
+
+The ESVD, short for Ecosystem Services Valuation Database, is a resource that compiles information related to the valuation of ecosystem services. It encompasses over 4,000 studies and data sources that quantify the economic and non-economic values provided by ecosystems, helping researchers, policymakers, and stakeholders better understand and assess the importance of these services for decision-making and sustainable resource management.&#x20;
+
+### Ethereum&#x20;
+
+Ethereum is a decentralized blockchain platform known for its smart contract capabilities and decentralized applications (dApps). It uses Ether (ETH) as its native cryptocurrency. Ethereum's programmable environment enables the creation of trustless, automated agreements (smart contracts) and various decentralized applications. It's a fundamental technology in DeFi, NFTs, and the broader blockchain ecosystem.
+
+### Externalities&#x20;
+
+Externalities are a key concept in economics and refer to the unintended effects of economic activities that spill over to impact individuals or groups who were not directly involved in those activities. These effects can be either positive or negative. Negative externalities, such as environmental pollution or noise disturbances from industrial operations, impose costs on society, often without the responsible parties fully accounting for them. Conversely, positive externalities, like education or healthcare, can provide benefits to society beyond those directly participating. Externalities can lead to market inefficiencies, as they are not reflected in the prices of goods or services, prompting the need for government intervention through regulation, taxation, or incentives to correct these market failures and promote more equitable and sustainable outcomes for both individuals and the broader community.
 
 ## F
 
@@ -174,6 +298,10 @@ The "Half Earth" concept, proposed by biologist E.O. Wilson, suggests that to sa
 
 ## O
 
+### Ostrom, Elinor&#x20;
+
+Elinor Ostrom was a distinguished American political economist and scholar known for her groundbreaking work on the governance of common-pool resources and collective action. In 2009, she was awarded the Nobel Prize in Economic Sciences for her pioneering research in this field. Ostrom's work challenged the traditional view that common-pool resources are prone to overuse and depletion, demonstrating that communities can effectively manage shared resources through self-governance and cooperation. Her research highlighted the importance of local knowledge, well-defined rules, and social institutions in achieving sustainable resource management. Elinor Ostrom's work has had a profound impact on the fields of environmental economics, resource management, and sustainable development.
+
 ## P
 
 ## Q
@@ -185,6 +313,10 @@ The "Half Earth" concept, proposed by biologist E.O. Wilson, suggests that to sa
 Funded by the Climate Collective, this report delves into merging Real World Assets (RWA) with Regenerative Finance (ReFi) to foster ecological and social impacts via web3 and blockchain technologies. It outlines the potential for a new regenerative asset ownership and governance system, confronting legal, technological, and financial hurdles. Advocating for open-source development, legal clarity, and active community engagement, it highlights key contributors to the evolving RWA and ReFi landscape. Published on February 16th, 2023, it is available under the CC BY-SA 4.0 license. More details on the project: [RWA x ReFi](../other-projects/rwa-x-refi-report.md)
 
 ## S
+
+### **SEED Biocomplexity**
+
+A standardized biodiversity index developed by Crowther Lab at ETH Zürich, measuring the complexity of nature on a 0-1 scale. It evaluates **Genetic diversity within species**, **Species diversity between species**, and **Ecosystem diversity across ecosystems**. This framework provides a comprehensive approach to quantify and assess the global biodiversity, facilitating informed decision-making for conservation, restoration, and sustainable management of natural resources by comparing [biocomplexity](glossary.md#biocomplexity) against reference ecosystems to understand ecological health impacts.
 
 ### Stacking&#x20;
 
