@@ -12,6 +12,8 @@ The "RWA for ReFi Report" explores the integration of Real World Assets (RWA) wi
 
 ## Full RWA x ReFi Report
 
+[open in separate window](https://docs.google.com/document/d/1IyHX8b\_M9MjKG6UyXE6T53IMaP42BzZzXk-T6zY3cWY/edit?usp=sharing)
+
 {% embed url="https://docs.google.com/document/d/1IyHX8b_M9MjKG6UyXE6T53IMaP42BzZzXk-T6zY3cWY/edit?usp=sharing" fullWidth="true" %}
 RWA x ReFi Report
 {% endembed %}
