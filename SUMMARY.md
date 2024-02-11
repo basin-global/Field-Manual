@@ -18,13 +18,13 @@
 
 * [Why put a Value on Nature?](realvalue/why-put-a-value-on-nature.md)
 * [The RealValue of Natural Capital](realvalue/the-realvalue-of-natural-capital/README.md)
+  * [Examples of RealValue](realvalue/the-realvalue-of-natural-capital/examples-of-realvalue.md)
   * [Ecological Polygon](realvalue/the-realvalue-of-natural-capital/ecological-polygon.md)
   * [RealValues](realvalue/the-realvalue-of-natural-capital/realvalues/README.md)
     * [STOCKS Values](realvalue/the-realvalue-of-natural-capital/realvalues/stocks-values.md)
     * [FLOWS Values](realvalue/the-realvalue-of-natural-capital/realvalues/flows-values.md)
   * [Natural Cap Rate](realvalue/the-realvalue-of-natural-capital/natural-cap-rate.md)
-* [RealValue Use Cases](realvalue/realvalue-use-cases.md)
-* [Examples of RealValue](realvalue/examples-of-realvalue.md)
+  * [RealValue Use Cases](realvalue/the-realvalue-of-natural-capital/realvalue-use-cases.md)
 
 ## Ensurance
 

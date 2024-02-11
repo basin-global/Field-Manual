@@ -18,6 +18,6 @@ RealValue is expressed via two metrics and one indicator:
 
 These metrics and indicator can be linked to any assortment of ecological metrics, variables, indicators and indices both quantitative and qualitative to assess overall ecosystem state, function, and health including biodiversity.
 
-Before diving into the details of Ecological Polygons and RealValues, here are some [examples of RealValue and Natural Cap Rates](../examples-of-realvalue.md).
+Before diving into the details of Ecological Polygons and RealValues, here are some [examples of RealValue and Natural Cap Rates](examples-of-realvalue.md).
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p><a href="../examples-of-realvalue.md">Examples of RealValue</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p><a href="examples-of-realvalue.md">Examples of RealValue</a></p></figcaption></figure>
