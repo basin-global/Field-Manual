@@ -15,7 +15,7 @@ NonCommercial (NC) means _**not**_ primarily intended for or directed towards co
 
 ### Commercial
 
-Commercial use is allowed by BASIN Members within the BASIN Protocol or available upon request.
+Commercial use is allowed by BASIN Members within the BASIN Protocol.  Alternatively, commercial options are available upon request.
 
 ***
 
