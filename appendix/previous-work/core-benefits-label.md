@@ -1,8 +1,27 @@
+---
+cover: ../../.gitbook/assets/core benefits label cover.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Core Benefits Label
 
-## All finance is climate finance.&#x20;
+**All finance is climate finance.**&#x20;
 
-### Is your investment “healthy”? Is your project “nutritious”?
+**Is your investment “healthy”? Is your project “nutritious”?**
 
 The Core Benefits Label, an outcome of the August 2021 Climate Sprint, offers a novel approach to valuing ecosystem services and co-benefits in climate finance. It was developed through a collaborative, rapid-development process aimed at providing clear, actionable insights for valuing long-term environmental and social benefits alongside traditional climate and financial goals. Inspired by nutrition labels, the Core Benefits Label helps investors and stakeholders identify and support climate projects with significant ecological and social impacts, enhancing transparency and evaluation for broader benefits beyond mere carbon reduction. The work is licensed under Creative Commons [CC BY-SA 4.0 DEED](https://creativecommons.org/licenses/by-sa/4.0/)
 

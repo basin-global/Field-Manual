@@ -110,3 +110,4 @@
 * [Glossary](appendix/glossary.md)
 * [Previous Work](appendix/previous-work/README.md)
   * [Core Benefits Label](appendix/previous-work/core-benefits-label.md)
+  * [RWA x ReFi Report](appendix/previous-work/rwa-x-refi-report.md)
