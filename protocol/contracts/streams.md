@@ -6,7 +6,7 @@ STREAMS are our ERC-1155 contracts.
 We commonly refer to Streams as STREAMS and [$STRMS](https://twitter.com/search?q=%24STRMS)
 {% endhint %}
 
-As a platform cooperative, [.basin's](basin.md) are 1:1 membership of the protocol, while STREAMS function as patronage certificates, reflecting the collaborative and dynamic nature of how BASIN STREAMS work together.
+As a platform cooperative, [.basin's](.basin.md) are 1:1 membership of the protocol, while STREAMS function as patronage certificates, reflecting the collaborative and dynamic nature of how BASIN STREAMS work together.
 
 As ERC-1155, STREAMS are semi-fungible and represent the unique and expansive value of each token type, but are also 1:1 certificates of the BASIN PROTOCOL. As more than just tokens, BASIN STREAMS flow financial and other forms of value from protocol activity through .basin’s based on quantity of STREAMS held.
 

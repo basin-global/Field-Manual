@@ -38,7 +38,7 @@
 * [Soundtrack](protocol/soundtrack.md)
 * [FAQ](protocol/faq.md)
 * [Contracts](protocol/contracts/README.md)
-  * [BASIN](protocol/contracts/basin.md)
+  * [.BASIN](protocol/contracts/.basin.md)
   * [STREAMS](protocol/contracts/streams.md)
   * [FLOWS](protocol/contracts/flows.md)
 
