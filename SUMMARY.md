@@ -33,13 +33,14 @@
 
 ## BASIN Protocol
 
-* [The Relational Value Gap](basin-protocol/the-relational-value-gap.md)
-* [Manifesto](basin-protocol/manifesto.md)
-* [Soundtrack](basin-protocol/soundtrack.md)
-* [FAQ](basin-protocol/faq.md)
+* [The Relational Value Gap](protocol/the-relational-value-gap.md)
+* [Manifesto](protocol/manifesto.md)
+* [Soundtrack](protocol/soundtrack.md)
+* [FAQ](protocol/faq.md)
 * [Contracts](basin-protocol/contracts/README.md)
   * [BASIN (.basin)](basin-protocol/contracts/basin-.basin.md)
   * [STREAMS](basin-protocol/contracts/streams.md)
+  * [FLOWS](basin-protocol/contracts/flows.md)
 
 ## formalities
 

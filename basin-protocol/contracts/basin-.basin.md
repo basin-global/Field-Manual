@@ -3,7 +3,7 @@
 .basin is our main ERC-721 contract deployed on Polygon (MATIC). Every .basin name is unique, has its own token ID, and it's own 0x account.&#x20;
 
 {% hint style="success" %}
-We refer to .basin's as "dot basin", BASIN, or [$BASIN](https://twitter.com/search?q=%24BASIN)
+We commonly refer to .basin's as "dot basin", BASIN, or [$BASIN](https://twitter.com/search?q=%24BASIN)
 {% endhint %}
 
 ## .basin Contract
