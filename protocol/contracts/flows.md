@@ -1,6 +1,10 @@
 # FLOWS
 
-BASIN STREAMS are the interplay of [Stocks & Flows](https://docs.basin.global/provenance/the-basin-field-manual#stocks-and-flows) of natural capital and other value. We have exciting things in the works using the 6551 (Stock) accounts and 1155 (Flow) contracts including but not limited to streaming, liquid splits, and semi-autonomous agents.  However, 0xSplits are ready and working now.
+BASIN STREAMS are the interplay of [Stocks & Flows](https://docs.basin.global/provenance/the-basin-field-manual#stocks-and-flows) of natural capital, financial, and other value.&#x20;
+
+{% hint style="info" %}
+We have exciting things in the works using .basin's cross-chain 0x's (Stock) accounts and our 1155 (Flow) contracts including but not limited to value streaming, liquid splits, and semi-autonomous agents that rebalance portfolios.  However, 0xSplits are ready and working now.
+{% endhint %}
 
 ## 0xSplits x BASIN
 

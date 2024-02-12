@@ -31,16 +31,16 @@
 * [Ecological Ensurance](ensurance/ecological-ensurance.md)
 * [Ensurance Example](ensurance/ensurance-example.md)
 
-## BASIN Protocol
+## Protocol
 
 * [The Relational Value Gap](protocol/the-relational-value-gap.md)
 * [Manifesto](protocol/manifesto.md)
 * [Soundtrack](protocol/soundtrack.md)
 * [FAQ](protocol/faq.md)
-* [Contracts](basin-protocol/contracts/README.md)
-  * [BASIN](basin-protocol/contracts/basin.md)
-  * [STREAMS](basin-protocol/contracts/streams.md)
-  * [FLOWS](basin-protocol/contracts/flows.md)
+* [Contracts](protocol/contracts/README.md)
+  * [BASIN](protocol/contracts/basin.md)
+  * [STREAMS](protocol/contracts/streams.md)
+  * [FLOWS](protocol/contracts/flows.md)
 
 ## formalities
 

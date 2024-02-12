@@ -36,9 +36,13 @@ Assets inside .basin's can be managed from the [tokenbound.org app](https://toke
 
 {% embed url="https://docs.tokenbound.org/guides/connect-with-nft" %}
 
-## Crosschain functionality across Ethereum
+## Cross-chain functionality across Ethereum
 
 Every .basin's 0x address is the same on all EVM's and will be able to be managed by your main wallet that holds the .basin on Polygon. Examples:
 
-* we are working on ENS implementation with each .basin having its own .eth name
+* we are working on ENS implementation with each .basin having the same .eth name
 * Our "[nature hyperstructure](https://zora.co/collect/zora:0x14b71a8e0c2c4d069cb230cc88a1423736b34096)" 1155 collection on Zora is funding .basin's via 0xSplits
+
+## Protocol BASIN's
+
+BASIN's can be managed individually or collectively based on the `OwnerOf` using a wallet set up of choice i.e. Metamask, Safe, etc.  BASIN's that represent "Public Goods" or that are considered "Commons" are "Protocol BASIN's" meaning they stay within the protocol, are never sold or traded, or managed by individual alone, they are managed by the protocol. Individual people, project, and certain property BASINs will oftentimes be outside the protocol but still benefit from protocol rewards.
