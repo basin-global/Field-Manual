@@ -1,4 +1,4 @@
-# BASIN (.basin)
+# BASIN
 
 .basin is our main ERC-721 contract deployed on Polygon (MATIC). Every .basin name is unique, has its own token ID, and it's own 0x account.&#x20;
 
@@ -8,7 +8,7 @@ We commonly refer to .basin's as "dot basin", BASIN, or [$BASIN](https://twitter
 
 ## .basin Contract
 
-<table data-full-width="true"><thead><tr><th width="164">contract name</th><th width="93">Symbol</th><th>address</th><th data-type="content-ref"></th></tr></thead><tbody><tr><td>.basin</td><td>.BASIN</td><td>0x4bF5A99eA2F8De061f7D77BA9edd749503D945Da</td><td><a href="https://polygonscan.com/token/0x4bf5a99ea2f8de061f7d77ba9edd749503d945da">https://polygonscan.com/token/0x4bf5a99ea2f8de061f7d77ba9edd749503d945da</a></td></tr></tbody></table>
+<table data-full-width="true"><thead><tr><th width="164">contract name</th><th width="93">Symbol</th><th>address</th><th data-type="content-ref"></th></tr></thead><tbody><tr><td>.basin</td><td>.BASIN</td><td>0x4bF5A99eA2F8De061f7D77BA9edd749503D945Da</td><td><a href="https://confluence.basin.global/explore/POLYGON:0x4bf5a99ea2f8de061f7d77ba9edd749503d945da">https://confluence.basin.global/explore/POLYGON:0x4bf5a99ea2f8de061f7d77ba9edd749503d945da</a></td></tr></tbody></table>
 
 ## .basin 0x's (Tokenbound Accounts)
 
