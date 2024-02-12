@@ -1,0 +1,44 @@
+# BASIN (.basin)
+
+.basin is our main ERC-721 contract deployed on Polygon (MATIC). Every .basin name is unique, has its own token ID, and it's own 0x account.&#x20;
+
+{% hint style="success" %}
+We refer to .basin's as "dot basin", BASIN, or [$BASIN](https://twitter.com/search?q=%24BASIN)
+{% endhint %}
+
+## .basin Contract
+
+<table data-full-width="true"><thead><tr><th width="164">contract name</th><th width="93">Symbol</th><th>address</th><th data-type="content-ref"></th></tr></thead><tbody><tr><td>.basin</td><td>.BASIN</td><td>0x4bF5A99eA2F8De061f7D77BA9edd749503D945Da</td><td><a href="https://polygonscan.com/token/0x4bf5a99ea2f8de061f7d77ba9edd749503d945da">https://polygonscan.com/token/0x4bf5a99ea2f8de061f7d77ba9edd749503d945da</a></td></tr></tbody></table>
+
+## .basin 0x's (Tokenbound Accounts)
+
+The .basin contract is ERC-6551 Tokenbound Account (TBA) enabled with every .basin having its own cross chain EVM 0x address.  .basin's can hold and manage any amount and assortment of ERC-20, ERC-721, and ERC-1155 tokens, i.e. ETH, USDC, MATIC, NFT's etc
+
+### Finding .basin 0x addresses
+
+Specific .basin 0x's can be found several ways. &#x20;
+
+The easiest is to keyword search the .basin collection page on OpenSea or Rarible for the .basin you are looking for. Then once on the token page, click the "@" icon on the token image and you will see its 0x address as well as options to view collectibles and assets inside the .basin.  (This feature coming soon to confluence.basin.global.)
+
+The other way is to go to Tokenbound.org with the .basin contract address in the url and the token ID at the end.  For example this is elk.basin token ID 28:
+
+{% embed url="https://tokenbound.org/assets/matic/0x4bf5a99ea2f8de061f7d77ba9edd749503d945da/28" %}
+elk.basin example
+{% endembed %}
+
+### Managing assets inside your .basin
+
+Assets inside .basin's can be managed from the [tokenbound.org app](https://tokenbound.org/) by connecting your wallet that the .basin resides in. This functionality will also be available on BASIN's dApp soon.
+
+### Connect with and use your .basin
+
+.basin's are essentially smart contract wallets, giving it the ability to do anything a wallet can. That means you can use your .basin to connect to websites and dApps using WalletConnect and perform actions on behalf of your NFT.  Please see this how to guide:
+
+{% embed url="https://docs.tokenbound.org/guides/connect-with-nft" %}
+
+## Crosschain functionality across Ethereum
+
+Every .basin's 0x address is the same on all EVM's and will be able to be managed by your main wallet that holds the .basin on Polygon. Examples:
+
+* we are working on ENS implementation with each .basin having its own .eth name
+* Our "[nature hyperstructure](https://zora.co/collect/zora:0x14b71a8e0c2c4d069cb230cc88a1423736b34096)" 1155 collection on Zora is funding .basin's via 0xSplits
