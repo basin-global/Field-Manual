@@ -1,4 +1,4 @@
-# Why put a Value on Nature?
+# ⚡ Why put a Value on Nature?
 
 The [Appendix](broken-reference) references thousands of pages as to "why" value nature. &#x20;
 
@@ -18,6 +18,8 @@ These two quotes ground us in the _**why**_:
 > The Dasgupta Review: the Economics of Biodiversity 2021
 
 
+
+**The RealValue of Natural Capital expresses the value nature provides in a language everyone understands: dollars.**
 
 ***
 

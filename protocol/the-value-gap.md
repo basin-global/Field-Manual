@@ -1,4 +1,4 @@
-# The Relational Value Gap
+# ⚡ The Value Gap
 
 These two quotes express the gap between intrinsic value and instrumental value, and the juxtaposition of ecocentric and anthropocentric values.
 
@@ -10,4 +10,4 @@ These two quotes express the gap between intrinsic value and instrumental value,
 >
 > \-Mark Twain
 
-The BASIN Protocol looks to bridge this gap.
+**The BASIN Protocol bridges this gap.**

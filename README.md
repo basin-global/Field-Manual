@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# The BASIN Field Manual
+# 📕 The BASIN Field Manual
 
 ### BASIN protects, restores, and stewards nature and ecosystems in perpetuity.
 

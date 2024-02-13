@@ -2,7 +2,7 @@
 
 ## Provenance
 
-* [The BASIN Field Manual](README.md)
+* [📕 The BASIN Field Manual](README.md)
 * [The Intrinsic Value of Nature](provenance/the-intrinsic-value-of-nature.md)
 
 ## Core Benefits
@@ -16,7 +16,7 @@
 
 ## RealValue
 
-* [Why put a Value on Nature?](realvalue/why-put-a-value-on-nature.md)
+* [⚡ Why put a Value on Nature?](realvalue/why-put-a-value-on-nature.md)
 * [The RealValue of Natural Capital](realvalue/the-realvalue-of-natural-capital/README.md)
   * [Examples of RealValue](realvalue/the-realvalue-of-natural-capital/examples-of-realvalue.md)
   * [Ecological Polygon](realvalue/the-realvalue-of-natural-capital/ecological-polygon.md)
@@ -28,12 +28,13 @@
 
 ## Ensurance
 
+* [⚡ Critical Infrastructure](ensurance/critical-infrastructure.md)
 * [Ecological Ensurance](ensurance/ecological-ensurance.md)
 * [Ensurance Example](ensurance/ensurance-example.md)
 
 ## Protocol
 
-* [The Relational Value Gap](protocol/the-relational-value-gap.md)
+* [⚡ The Value Gap](protocol/the-value-gap.md)
 * [The BASIN Protocol](protocol/the-basin-protocol/README.md)
   * [PLACE](protocol/the-basin-protocol/place.md)
   * [PURPOSE](protocol/the-basin-protocol/purpose.md)
