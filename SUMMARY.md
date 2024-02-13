@@ -34,6 +34,10 @@
 ## Protocol
 
 * [The Relational Value Gap](protocol/the-relational-value-gap.md)
+* [The BASIN Protocol](protocol/the-basin-protocol/README.md)
+  * [PLACE](protocol/the-basin-protocol/place.md)
+  * [PURPOSE](protocol/the-basin-protocol/purpose.md)
+  * [PEOPLE](protocol/the-basin-protocol/people.md)
 * [Manifesto](protocol/manifesto.md)
 * [Soundtrack](protocol/soundtrack.md)
 * [FAQ](protocol/faq.md)
