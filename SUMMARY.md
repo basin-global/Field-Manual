@@ -42,16 +42,16 @@
 * [Manifesto](protocol/manifesto.md)
 * [Soundtrack](protocol/soundtrack.md)
 * [FAQ](protocol/faq.md)
-* [Contracts](protocol/contracts/README.md)
-  * [.BASIN](protocol/contracts/.basin.md)
-  * [STREAMS](protocol/contracts/streams.md)
-  * [FLOWS](protocol/contracts/flows.md)
 
 ## formalities
 
+* [Contracts](formalities/contracts/README.md)
+  * [.BASIN](formalities/contracts/.basin.md)
+  * [STREAMS](formalities/contracts/streams.md)
+  * [FLOWS](formalities/contracts/flows.md)
 * [License](formalities/license.md)
-* [Authors](formalities/authors.md)
 * [Contact](formalities/contact.md)
+* [Authors](formalities/authors.md)
 * [Disclaimer](formalities/disclaimer.md)
 
 ## Appendix
