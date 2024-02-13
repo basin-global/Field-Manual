@@ -34,7 +34,7 @@ This collection funds the 18 Core Benefits of Natural Capital individually.
 
 ## Splits Contracts
 
-<table><thead><tr><th width="111">chain</th><th width="345">receiver address</th><th data-type="content-ref"></th></tr></thead><tbody><tr><td>Zora</td><td>0x6F0aB1f644954b6bfB9954dD0B70275609259D03</td><td><a href="https://app.splits.org/accounts/0x6F0aB1f644954b6bfB9954dD0B70275609259D03/?chainId=7777777">https://app.splits.org/accounts/0x6F0aB1f644954b6bfB9954dD0B70275609259D03/?chainId=7777777</a></td></tr><tr><td>Polygon</td><td>pending</td><td></td></tr></tbody></table>
+<table><thead><tr><th width="111">chain</th><th width="345">receiver address</th><th data-type="content-ref"></th></tr></thead><tbody><tr><td>Zora</td><td>0x6F0aB1f644954b6bfB9954dD0B70275609259D03</td><td><a href="https://app.splits.org/accounts/0x6F0aB1f644954b6bfB9954dD0B70275609259D03/?chainId=7777777">https://app.splits.org/accounts/0x6F0aB1f644954b6bfB9954dD0B70275609259D03/?chainId=7777777</a></td></tr><tr><td>Polygon</td><td>0x5486970bF7D10DcF239a4b8A2b75EB6B764042a9</td><td><a href="https://dev.app.splits.org/accounts/0x5486970bF7D10DcF239a4b8A2b75EB6B764042a9/?chainId=137">https://dev.app.splits.org/accounts/0x5486970bF7D10DcF239a4b8A2b75EB6B764042a9/?chainId=137</a></td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}
 
