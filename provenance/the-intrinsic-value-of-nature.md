@@ -16,7 +16,7 @@ layout:
 
 _Ohenton Kariwatehkwen. Whakapapa. Ubuntu. Buen Vivir. Djalkiri. Ngurra. Satoyama. Sila._
 
-Beliefs are not limited by space or time. The intrinsic value of nature is a universal principle [across](../appendix/value-types-and-valuation-methods/) diverse cultures, emphasizing the deep interconnections among all living beings, the land, and the spiritual world. Intrinsic value expresses harmony, respect, and mutual care that nurtures both community and the greater ecology of which we are a part.
+Beliefs are not limited by space or time. The intrinsic value of nature is a universal principle [across diverse cultures](../appendix/value-types-and-valuation-methods/types-of-value/values-across-cultures.md), emphasizing the deep interconnections among all living beings, the land, and the spiritual world. Intrinsic value expresses harmony, respect, and mutual care that nurtures both community and the greater ecology of which we are a part.
 
 ***
 
