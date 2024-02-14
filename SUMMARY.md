@@ -4,6 +4,7 @@
 
 * [📕 The BASIN Field Manual](README.md)
 * [The Intrinsic Value of Nature](provenance/the-intrinsic-value-of-nature.md)
+* [What You Seek](provenance/what-you-seek.md)
 
 ## Core Benefits
 
