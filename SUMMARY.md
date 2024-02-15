@@ -40,20 +40,20 @@
   * [PLACE](protocol/the-basin-protocol/place.md)
   * [PURPOSE](protocol/the-basin-protocol/purpose.md)
   * [PEOPLE](protocol/the-basin-protocol/people.md)
-* [Manifesto](protocol/manifesto.md)
-* [Soundtrack](protocol/soundtrack.md)
-* [FAQ](protocol/faq.md)
 
-## formalities
+## Dossier
 
-* [Contracts](formalities/contracts/README.md)
-  * [.BASIN](formalities/contracts/.basin.md)
-  * [STREAMS](formalities/contracts/streams.md)
-  * [FLOWS](formalities/contracts/flows.md)
-* [License](formalities/license.md)
-* [Contact](formalities/contact.md)
-* [Authors](formalities/authors.md)
-* [Disclaimer](formalities/disclaimer.md)
+* [Manifesto](dossier/manifesto.md)
+* [FAQ](dossier/faq.md)
+* [Contracts](dossier/contracts/README.md)
+  * [.BASIN](dossier/contracts/.basin.md)
+  * [STREAMS](dossier/contracts/streams.md)
+  * [FLOWS](dossier/contracts/flows.md)
+* [Soundtrack](dossier/soundtrack.md)
+* [License](dossier/license.md)
+* [Contact](dossier/contact.md)
+* [Authors](dossier/authors.md)
+* [Disclaimer](dossier/disclaimer.md)
 
 ## Appendix
 

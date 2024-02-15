@@ -1,6 +1,6 @@
 # Values Across Cultures
 
-The [IPBES Diverse Values and Valuation of Nature](../../../protocol/manifesto.md) paper is an extensive work and a highly recommended resource on types of values across culture.
+The [IPBES Diverse Values and Valuation of Nature](../../../dossier/manifesto.md) paper is an extensive work and a highly recommended resource on types of values across culture.
 
 Additionally, we looked at _intrinsic value_ and _well-being_ beliefs across cultures.&#x20;
 
