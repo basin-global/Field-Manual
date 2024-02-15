@@ -29,7 +29,7 @@ The **BASIN Field Manual** is the central reference to all that is BASIN. It is 
 
 _**If**_ BASIN had two rules they would be:
 
-### Embrace Complexity.
+### Embrace Complexity
 
 Complex is not the same as complicated. Biodiversity, climate, carbon, water, nature, and beyond — economics, finance, politics, law, art, health, wealth, and **well-being** — are all interconnected.
 
@@ -38,8 +38,6 @@ Complex is not the same as complicated. Biodiversity, climate, carbon, water, na
 Ecological economics and ecosystem accounting are based on the principles of stocks and flows. This aptly mirrors nature's basins that store and circulate life-sustaining water. BASIN's model is crafted on this very essence— protecting and stewarding the stocks and flows of Nature's Intrinsic Value.
 
 ***
-
-
 
 > “_**When we try to pick out anything by itself, we find it hitched to everything else in the universe.**_”&#x20;
 >

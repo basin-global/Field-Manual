@@ -8,15 +8,13 @@ Maybe what we are after is regenerative wealth?
 
 ## Regenerative Wealth
 
-Sustainability focuses on maintaining and preserving our current conditions to prevent future harm. **Regenerative** practices, however, take a proactive step further by actively enhancing and revitalizing systems, aiming to boost their health and vitality.
+Sustainability focuses on maintaining and preserving our current conditions to prevent future harm. **Regenerative**, however, take a proactive step further by actively enhancing and revitalizing systems, aiming to boost their health and vitality.
 
-Historically, "**wealth**" signified well-being, health, happiness, prosperity, and preservation, with financial gains considered a secondary outcome. For us, real wealth is embodied by flourishing ecological systems, inherently encompassing human health and well-being.
+Historically, "**wealth**" signified well-being, health, happiness, prosperity, and preservation. Financial gains were considered a secondary outcome. For us, real wealth is embodied by flourishing ecological systems, inherently encompassing human health and well-being.
 
 Ah, yes, that’s what we are after: **Regenerative Wealth**.
 
 ***
-
-
 
 > "_**What you seek, is seeking you.**_"
 >
