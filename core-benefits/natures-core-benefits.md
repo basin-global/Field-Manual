@@ -6,4 +6,4 @@ Ecological economics converge on 19 core benefits that nature provides, represen
 The concept of Nature's Core Benefits are derived from our comprehensive evaluation of over 50 ecological frameworks, meticulously detailed in the [Appendix](../appendix/ecosystem-services-classification/).
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/natures core benefits.png" alt=""><figcaption><p>Nature's Core Benefits</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/natures core benefits2.png" alt=""><figcaption><p>Nature's Core Benefits</p></figcaption></figure>
