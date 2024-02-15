@@ -8,7 +8,7 @@
 
 ## Core Benefits
 
-* [Nature's Core Benefits](core-benefits/natures-core-benefits.md)
+* [⚡ Nature's Core Benefits](core-benefits/natures-core-benefits.md)
 * [Core Benefits Framework](core-benefits/core-benefits-framework/README.md)
   * [STOCKS: Ecosystems](core-benefits/core-benefits-framework/stocks-ecosystems/README.md)
     * [Ecosystem Definitions](core-benefits/core-benefits-framework/stocks-ecosystems/ecosystem-definitions.md)

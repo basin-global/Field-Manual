@@ -1,4 +1,4 @@
-# Nature's Core Benefits
+# ⚡ Nature's Core Benefits
 
 Ecological economics converge on 19 core benefits that nature provides, representing a unified understanding across diverse scientific inquiries into nature's invaluable contributions to people and the planet.
 
