@@ -11,5 +11,3 @@ The Core Benefits Framework identifies 14 "stocks" of ecosystems that are consis
 {% hint style="info" %}
 Supporting materials, scope and methodological notes are found in the [Land Cover Classification & Ecosystem Typologies](../../../appendix/land-cover-classification-and-ecosystem-typologies/) Appendix
 {% endhint %}
-
-###
