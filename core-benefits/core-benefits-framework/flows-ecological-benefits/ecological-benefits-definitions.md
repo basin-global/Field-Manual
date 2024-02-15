@@ -1,6 +1,6 @@
 # Ecological Benefits Definitions
 
-These 21 definitions standardize of the of ecosystem services & real asset benefits unify the language across different frameworks to facilitate investment in ecosystem restoration and conservation as part of the BASIN Protocol.
+These 21 definitions standardize of the of ecosystem services & real asset benefits unify the language across [different frameworks](broken-reference) to facilitate investment in ecosystem restoration and conservation as part of the BASIN Protocol.
 
 ## Raw Materials
 

@@ -1,7 +1,7 @@
 # Ecosystem Services Classification
 
 {% hint style="info" %}
-The BASIN [Core Benefits of Natural Capital](broken-reference) and [RealValue](broken-reference) were built based on the process and supporting materials found in this Appendix.
+The BASIN [Core Benefits Framework](../../core-benefits/core-benefits-framework/) and the [RealValue of Natural Capital ](broken-reference)were built based on the process and supporting materials found in this Appendix.
 {% endhint %}
 
 ## Ecosystem Services Classification & Valuation

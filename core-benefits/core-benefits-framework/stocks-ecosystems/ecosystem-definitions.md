@@ -1,6 +1,6 @@
 # Ecosystem Definitions
 
-These 14 definitions standardize and unify the language across different frameworks to facilitate investment in ecosystem restoration and conservation as part of the BASIN Protocol.
+These 14 definitions standardize and unify the language across [different frameworks](../../../appendix/land-cover-classification-and-ecosystem-typologies/) to facilitate investment in ecosystem restoration and conservation as part of the BASIN Protocol.
 
 ## Cultivated & Developed
 
