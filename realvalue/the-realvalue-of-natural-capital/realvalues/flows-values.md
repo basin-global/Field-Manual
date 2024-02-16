@@ -2,12 +2,12 @@
 
 To fully account for the RealValue, Flow values consist of both Anthropocentric Values and Public Goods Values. Flows are expressed as the annual economic and financial dollar values ($/yr).&#x20;
 
-**Anthropocentric flow values** are real income generated from the polygon. Commonly referred to as Net Operating Income (NOI) this can be use and rental income from land or buildings, and income from the provisioning Core Benefits of raw materials, food, and energy. This can also be carbon or biodiversity credit income, Renewable Energy Certificate (REC) sales, or any other real income produced from the property.
+**Anthropocentric flow values** are real income generated from the polygon. Commonly referred to as Net Operating Income (NOI) this can be use and rental income from land or buildings, and income from the provisioning Core Benefits of raw materials, food, and energy. It can also be carbon or biodiversity credit income, Renewable Energy Certificate (REC) sales, or any other actual income produced from the property.
 
-**Public Goods flow values** are the remaining Core Benefits which are commonly referred to as externalities.  They are valuable yet obtained for free and often times degraded due to excludable private property rights.
+**Public Goods flow values** are the remaining Core Benefits which are commonly referred to as externalities. They are valuable yet obtained for free and often times degraded due to excludable private property rights. Public Goods Values are also called Ecosystem Service Values (ESV).
 
 {% hint style="warning" %}
-It is important to reconcile the Anthropocentric and Public Goods values on a regular basis as to prevent double counting. For example if water or biodiversity certificates are sold and converted to real income then the full Public Goods value should be debited and the actual Anthropocentric value credited.
+It is important to reconcile the Anthropocentric and Public Goods values on a regular basis as to prevent double counting. For example if water or biodiversity certificates are sold and converted to real income then the full Public Goods value should be debited and the actual Anthropocentric value credited.&#x20;
 {% endhint %}
 
 ## The 18 RealValues of Natural Capital
@@ -16,6 +16,6 @@ It is important to reconcile the Anthropocentric and Public Goods values on a re
 
 ## Accounting Units
 
-RealValues are expressed in dollars per acre per year ($/ac/yr). When applied to an Ecological Polygon, the result translates to dollars per year ($/yr). These units can easily be converted to hectares.&#x20;
+RealValues are derived from our extensive ESV dataset based in dollars per acre per year ($/ac/yr). When applied to an Ecological Polygon, the result translates to dollars per year ($/yr). These units can easily be converted to hectares.&#x20;
 
-Anthropocentric Values are quantified based on the Ecological Polygon's Net Operating Income (NOI), a standard metric in real estate investment. Public Goods Values, on the other hand, are based on meta-analytic ecosystem service values as outlined in the Appendix: RealValues Methodology.
+Anthropocentric Values are quantified based on the Ecological Polygon's actual or proforma Net Operating Income (NOI), a standard metric in real estate investment. Public Goods Values, on the other hand, are based on meta-analytic ecosystem service values as outlined in the [Appendix](broken-reference).
