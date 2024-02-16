@@ -7,7 +7,7 @@ The BASIN Protocol **ensures** the ecology of PLACE, on PURPOSE, by PEOPLE.
 The BASIN Protocol is actively run by its members.  All members have a .basin account which serves as the confluence to stocks and flows of natural capital, the people, and underlying real assets that make up the protocol.
 
 {% hint style="info" %}
-What does this mean technically? See the [Contracts](../../dossier/contracts/) section for details.
+What does this mean technically? See the [Contracts](../contracts/) section for details.
 {% endhint %}
 
 ## BASIN STREAM FLOWS

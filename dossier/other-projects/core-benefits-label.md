@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/core benefits label cover.png
+cover: ../../.gitbook/assets/core benefits label cover.png
 coverY: 0
 layout:
   cover:
@@ -37,4 +37,4 @@ The Core Benefits Label offers a novel approach to valuing ecosystem services an
 
 ## Blank Core Benefits Label
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Core Benefits Label</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Core Benefits Label</p></figcaption></figure>

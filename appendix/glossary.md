@@ -310,7 +310,7 @@ Elinor Ostrom was a distinguished American political economist and scholar known
 
 ### **RWA x ReFi Report**
 
-Funded by the Climate Collective, this report delves into merging Real World Assets (RWA) with Regenerative Finance (ReFi) to foster ecological and social impacts via web3 and blockchain technologies. It outlines the potential for a new regenerative asset ownership and governance system, confronting legal, technological, and financial hurdles. Advocating for open-source development, legal clarity, and active community engagement, it highlights key contributors to the evolving RWA and ReFi landscape. Published on February 16th, 2023, it is available under the CC BY-SA 4.0 license. More details on the project: [RWA x ReFi](../other-projects/rwa-x-refi-report.md)
+Funded by the Climate Collective, this report delves into merging Real World Assets (RWA) with Regenerative Finance (ReFi) to foster ecological and social impacts via web3 and blockchain technologies. It outlines the potential for a new regenerative asset ownership and governance system, confronting legal, technological, and financial hurdles. Advocating for open-source development, legal clarity, and active community engagement, it highlights key contributors to the evolving RWA and ReFi landscape. Published on February 16th, 2023, it is available under the CC BY-SA 4.0 license. More details on the project: [RWA x ReFi](../dossier/other-projects/rwa-x-refi-report.md)
 
 ## S
 

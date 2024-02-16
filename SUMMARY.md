@@ -40,20 +40,24 @@
   * [PLACE](protocol/the-basin-protocol/place.md)
   * [PURPOSE](protocol/the-basin-protocol/purpose.md)
   * [PEOPLE](protocol/the-basin-protocol/people.md)
+* [Contracts](protocol/contracts/README.md)
+  * [.BASIN](protocol/contracts/.basin.md)
+  * [STREAMS](protocol/contracts/streams.md)
+  * [FLOWS](protocol/contracts/flows.md)
 
 ## Dossier
 
-* [Manifesto](dossier/manifesto.md)
 * [FAQ](dossier/faq.md)
-* [Contracts](dossier/contracts/README.md)
-  * [.BASIN](dossier/contracts/.basin.md)
-  * [STREAMS](dossier/contracts/streams.md)
-  * [FLOWS](dossier/contracts/flows.md)
+* [Manifesto](dossier/manifesto.md)
 * [Soundtrack](dossier/soundtrack.md)
-* [License](dossier/license.md)
 * [Contact](dossier/contact.md)
-* [Authors](dossier/authors.md)
-* [Disclaimer](dossier/disclaimer.md)
+* [Other Projects](dossier/other-projects/README.md)
+  * [RWA x ReFi Report](dossier/other-projects/rwa-x-refi-report.md)
+  * [Core Benefits Label](dossier/other-projects/core-benefits-label.md)
+* [Formalities](dossier/formalities/README.md)
+  * [License](dossier/formalities/license.md)
+  * [Authors](dossier/formalities/authors.md)
+  * [Disclaimer](dossier/formalities/disclaimer.md)
 
 ## Appendix
 
@@ -122,8 +126,3 @@
   * [Real Asset Values](appendix/selected-value-types-and-valuation-methods/real-asset-values/README.md)
     * [Cap Rate Overview](appendix/selected-value-types-and-valuation-methods/real-asset-values/cap-rate-overview.md)
   * [Ecosystem Service Values](appendix/selected-value-types-and-valuation-methods/ecosystem-service-values.md)
-
-## Other Projects
-
-* [Core Benefits Label](other-projects/core-benefits-label.md)
-* [RWA x ReFi Report](other-projects/rwa-x-refi-report.md)
