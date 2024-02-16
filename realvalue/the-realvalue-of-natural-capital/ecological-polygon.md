@@ -1,8 +1,8 @@
 # Ecological Polygon
 
-The Ecological Polygon serves as a foundational unit for natural capital accounting within the RealValue framework. It is the “place” of ecological stocks which gives bounty to the ecological flows.
+The Ecological Polygon serves as the foundational unit of natural capital accounting within the RealValue framework. It is the 'place' of ecological stocks which gives bounty to the ecological flows.
 
-An ecological polygon can be any size, anywhere in the world, any ecosystem composition. It can be an arbitrarily drawn or selected polygon, or can be a very specific polygon based on biophysicality, jurisdictional boundaries or a property legal description.
+An ecological polygon can be any size, anywhere in the world, of any ecosystem composition. It can be an arbitrarily drawn or selected polygon, or can be a very specific polygon based on biophysicality, jurisdictional boundaries or property legal description.
 
 {% hint style="success" %}
 In most cases the property legal description will and should be used as the boundary of an ecological polygon to allow for certification within the BASIN Protocol.
@@ -18,7 +18,7 @@ This is the size and make up of the polygon. It can be in hectares or acres and 
 
 ### Ecosystem Characteristics
 
-At a minimum, the land cover and ecosystem types present in the polygon should be delineated using the BASIN Ecosystems. Other data should also be included such as One Earth Bioregions, Resolve Ecoregions, and IUCN Ecosystem Functional Groups (EFG).
+At a minimum, the land cover and ecosystem types present in the polygon should be delineated using the [BASIN Ecosystems](../../core-benefits/core-benefits-framework/stocks-ecosystems/ecosystem-definitions.md). Other data should also be included such as IUCN Ecosystem Functional Groups (EFG), One Earth Bioregions, and Resolve Ecoregions.
 
 ### Ecosystem Condition
 
@@ -35,7 +35,7 @@ If time and budget permits, the **SEEA Ecosystem Condition Typology (ECT)** shou
 
 #### SEED Biocomplexity
 
-Separately we are hoping to be a beta tester of Crowther Lab ETH Zürich's [SEED Biocomplexity](https://seed-index.com/). SEED is a standardized biodiversity index that measures the full complexity of nature. Similarly to our 1-10 multiplier, SEED uses a 0-1 scale and assesses the variation and interactions across:
+Separately we are hoping to be a beta tester of Crowther Lab ETH Zürich's [SEED Biocomplexity](https://seed-index.com/). SEED is a standardized biodiversity index that measures the full complexity of nature. Similar to our 1-10 multiplier, SEED uses a 0-1 scale and assesses the variation and interactions across:
 
 * **Genetic diversity** _within_ species
 * **Species diversity** _between_ species

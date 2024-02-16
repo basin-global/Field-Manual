@@ -12,7 +12,15 @@ In contrast, RealValue establishes the 'higher and better use' of real assets by
 
 ## RealValue Composition&#x20;
 
-RealValue is comprised of and calculated based on two main components: **Ecological Polygon** and **RealValues**.
+RealValue is comprised of and calculated based on two main components: Ecological Polygon and RealValues.
+
+### Ecological Polygon
+
+This is ecosystem that is being valued consisting of extent, characteristics, and condition.
+
+### RealValues
+
+These are the individual values of the Core Benefits converted to and expressed in dollar values.
 
 ## RealValue Expression
 

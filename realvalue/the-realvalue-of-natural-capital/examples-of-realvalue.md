@@ -1,8 +1,8 @@
 # Examples of RealValue
 
-Here are selected examples of the expression of RealValue.  The most current iterations can be found at [BASIN Dispatches](https://dispatches.basin.global/).
+Here are selected expressions of RealValue. The most current iterations can be found at [BASIN Dispatches](https://dispatches.basin.global/).
 
-## Three Pilot Sites
+## Pilot Sites
 
 These are three sites we have assessed for [Ecological Ensurance](broken-reference).
 
