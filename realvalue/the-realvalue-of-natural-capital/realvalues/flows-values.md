@@ -16,6 +16,12 @@ It is important to reconcile the Anthropocentric and Public Goods values on a re
 
 ## Accounting Units
 
+### Dollar Values
+
 RealValues are derived from our extensive ESV dataset based in dollars per acre per year ($/ac/yr). When applied to an Ecological Polygon, the result translates to dollars per year ($/yr). These units can easily be converted to hectares.&#x20;
 
 Anthropocentric Values are quantified based on the Ecological Polygon's actual or proforma Net Operating Income (NOI), a standard metric in real estate investment. Public Goods Values, on the other hand, are based on meta-analytic ecosystem service values as outlined in the [Appendix](broken-reference).
+
+### Ecological Indicators
+
+Dollar values can be linked to any assortment of ecological metrics, variables, indicators and indices, both quantitative and qualitative, to assess overall ecosystem state, function, and health including biodiversity.
