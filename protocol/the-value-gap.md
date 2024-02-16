@@ -10,4 +10,4 @@ A value gap lies between the intrinsic value of nature and its instrumental valu
 >
 > \-Mark Twain
 
-The BASIN Protocol bridges this gap.
+The BASIN Protocol bridges this relational value gap.
