@@ -51,6 +51,8 @@
 * [Manifesto](dossier/manifesto.md)
 * [Soundtrack](dossier/soundtrack.md)
 * [Contact](dossier/contact.md)
+* [CONFLUENCE](https://confluence.basin.global/)
+* [DISPATCHES](https://dispatches.basin.global/)
 * [Other Projects](dossier/other-projects/README.md)
   * [RWA x ReFi Report](dossier/other-projects/rwa-x-refi-report.md)
   * [Core Benefits Label](dossier/other-projects/core-benefits-label.md)
