@@ -36,6 +36,7 @@
 ## Protocol
 
 * [⚡ The Value Gap](protocol/the-value-gap.md)
+* [Nature's Balance Sheet](protocol/natures-balance-sheet.md)
 * [The BASIN Protocol](protocol/the-basin-protocol/README.md)
   * [PLACE](protocol/the-basin-protocol/place.md)
   * [PURPOSE](protocol/the-basin-protocol/purpose.md)

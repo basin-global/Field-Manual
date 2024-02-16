@@ -10,4 +10,4 @@ A value gap lies between the intrinsic value of nature and its instrumental valu
 >
 > \-Mark Twain
 
-The BASIN Protocol bridges this gap by not just accounting for nature on the balance sheet but by actually building Nature's Balance Sheet.
+The BASIN Protocol bridges this gap.
