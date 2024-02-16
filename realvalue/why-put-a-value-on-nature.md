@@ -1,6 +1,6 @@
 # ⚡ Why put a Value on Nature?
 
-The [Appendix](broken-reference) references thousands of pages as to "why" value nature. &#x20;
+The [Appendix](broken-reference) references thousands of sources as to why and how to value nature. &#x20;
 
 These two quotes ground us in the _**why**_:
 
@@ -19,7 +19,7 @@ These two quotes ground us in the _**why**_:
 
 
 
-**The RealValue of Natural Capital expresses the value nature provides in a language everyone understands: dollars.**
+The RealValue of Natural Capital expresses the value nature provides in a language everyone understands: dollars.
 
 ***
 
