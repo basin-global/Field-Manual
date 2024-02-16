@@ -1,6 +1,6 @@
 # ⚡ The Value Gap
 
-These two quotes express the gap between intrinsic value and instrumental value, and the juxtaposition of ecocentric and anthropocentric values.
+A value gap lies between the intrinsic value of nature and its instrumental value as perceived by society. This dichotomy is further illustrated by contrasting ecocentric and anthropocentric values. Consider the following reflections:
 
 > _“**How can you buy or sell the sky, the warmth of the land? The idea is strange to us. If we do not own the freshness of the air and the sparkle of the water, how can you buy them from us?**”_&#x20;
 >
@@ -10,4 +10,4 @@ These two quotes express the gap between intrinsic value and instrumental value,
 >
 > \-Mark Twain
 
-**The BASIN Protocol bridges this gap.**
+The BASIN Protocol bridges this gap by not just accounting for nature on the balance sheet but by actually building Nature's Balance Sheet.

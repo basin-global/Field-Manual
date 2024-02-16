@@ -1,6 +1,6 @@
 # Ecological Ensurance
 
-Ecological Ensurance, as part of the BASIN Protocol, is a comprehensive approach designed to proactively protect, restore, and steward ecosystems and species in perpetuity.
+Ecological Ensurance, by BASIN, ensures that the [RealValue of Natural Capital](../realvalue/the-realvalue-of-natural-capital/) is protected and stewarded in perpetuity.&#x20;
 
 Unlike traditional insurance, which is retroactive, Ensurance is proactive, focusing on the preservation and restoration of ecosystems from the outset. It involves issuing Ensurance Policies and Certificates of Ensurance based on the RealValue of Natural Capital stocks and flows within specific ecological polygons.
 
