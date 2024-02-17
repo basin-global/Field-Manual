@@ -19,7 +19,7 @@ STREAMS represent and operate as the **flows** between PLACE, PURPOSE, and PEOPL
 As a platform cooperative, .basin's are 1:1 membership of the protocol, while STREAMS function as patronage certificates, reflecting the collaborative and dynamic nature of how BASIN STREAMS work together.
 
 {% hint style="success" %}
-A way to think of the BASIN Protocol is that BASIN's hold, store, and filter the value of our world's most precious treasures while STREAMS are the FLOWS of that value.  Collectively BASIN members steward that value for sustainable well-being of all species and ecosystems.
+A way to think of the BASIN Protocol is that BASIN's gather, hold, and filter the value of our world's most precious treasures while STREAMS are the FLOWS of that value. Collectively BASIN members steward Nature's value for sustainable well-being of all species and ecosystems.
 {% endhint %}
 
 ## PLACE, PURPOSE, PEOPLE
